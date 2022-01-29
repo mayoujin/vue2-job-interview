@@ -1,0 +1,13 @@
+{
+    "name": "vue2-test-app",
+    "version": "1.0.0,
+    "description": "",
+    "author": "",
+    "dependencies": {
+      "vue2-job-interview": "ssh+ssh://git@gitlab.goodt.me:9022/s.frolov/vue2-job-interview.git"
+    },
+    "engines": {
+        "node": ">=14",
+        "npm": ">=7"
+    }
+}
