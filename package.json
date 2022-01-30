@@ -4,7 +4,7 @@
     "description": "",
     "author": "",
     "dependencies": {
-      "vue2-job-interview": "ssh+ssh://git@gitlab.goodt.me:9022/s.frolov/vue2-job-interview.git"
+      "vue2-job-interview": "ssh+git://git@gitlab.goodt.me:9022/s.frolov/vue2-job-interview.git"
     },
     "engines": {
         "node": ">=14",
